@@ -1,6 +1,6 @@
-# chronosync
+# Chronosync
 
-A new Flutter project.
+A deadline tracker app that works offline and stores data locally using Isar DB.
 
 ## Getting Started
 
